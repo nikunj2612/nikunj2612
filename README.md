@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikunj Tandel</h1>
-<h3 align="center">A passionate fullstack developer & DevOps from India</h3>
+<h3 align="center">A passionate Tech Lead from India</h3>
 
 
 - 🌱 I’m currently learning **Python**
